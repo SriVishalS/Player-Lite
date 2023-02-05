@@ -3,7 +3,7 @@
       "name": "Music Player",
       "icons": [
             {
-                  "src": "./images/favicon.ico",
+                  "src": "logo.png",
                   "type": "image/png",
                   "sizes": "192x192"
             }
